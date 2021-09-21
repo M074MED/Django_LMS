@@ -6,9 +6,9 @@ View The Project: https://m074med.pythonanywhere.com/
 
 ### About Me:
 ###### Hello,
-###### My name is Mohammed, I am 19 years old.
-###### I am a student at the Faculty of Computer Science and Artificial Intelligence but I know Programming before that.
-###### I love Programming, It is my Hobby.
+###### I am Mohammed, I am Junior Django Developer with Front-End basics(HTML, CSS, JavaScript, jQuery, Bootstrap and React JS).
+###### I have one year of experience in Python and I created some projects(Django Library Management System, Bootstrap and jQuery Template, 
+###### HTML and CSS and JS Template, and other projects on GitHub),You can see them on My Portfolio: https://m074med.github.io/My_Portfolio/
 
 #### My Technical Skills:
 ######  -Python
@@ -18,6 +18,9 @@ View The Project: https://m074med.pythonanywhere.com/
 ######  -HTML
 ######  -CSS
 ######  -JavaScript
+######  -jQuery
+######  -Bootstrap
+######  -React JS
 ######  -Git & GitHub
 ######  -Command Line
 ######  -Linux
@@ -26,12 +29,9 @@ View The Project: https://m074med.pythonanywhere.com/
 
 
 #### Social Media & Contact:
+######  -My Portfolio: https://m074med.github.io/My_Portfolio/
 ######  -GitHub: https://github.com/M074MED
 ######  -Linkedin: https://www.linkedin.com/in/m074med
 ######  -Facebook: https://www.facebook.com/M074MED
 ######  -Instagram: https://www.instagram.com/_m074med_
 ######  -Twitter: https://twitter.com/_m074med_
-######  -StackOverflow: https://stackoverflow.com/users/15532731/mohammed-mamdouh?tab=profile
-######  -StackShare: https://stackshare.io/m074med
-######  -HackerRank: https://www.hackerrank.com/mhmedmhmed123491
-######  -LeetCode: https://leetcode.com/M074MED
