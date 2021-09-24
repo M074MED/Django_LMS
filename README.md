@@ -21,6 +21,7 @@ View The Project: https://m074med.pythonanywhere.com/
 ######  -jQuery
 ######  -Bootstrap
 ######  -React JS
+######  -C++
 ######  -Git & GitHub
 ######  -Command Line
 ######  -Linux
