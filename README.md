@@ -13,6 +13,7 @@ View The Project: https://m074med.pythonanywhere.com/
 #### My Technical Skills:
 ######  -Python
 ######  -Django
+######  -MySQL
 ######  -oop
 ######  -Web Scraping (with Python Beautiful Soup)
 ######  -HTML
